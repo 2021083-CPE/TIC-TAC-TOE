@@ -1,0 +1,1 @@
+pygame.draw.rect(WIN, BLACK, BORDER)
